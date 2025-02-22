@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    appearance: none;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: 0 solid transparent;
+    border-radius: 0;
+    font-family: sans-serif;
+    background: transparent;
+}
