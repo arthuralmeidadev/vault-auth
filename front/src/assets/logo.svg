@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="56.24498mm"
+   height="64.395782mm"
+   viewBox="0 0 56.24498 64.395782"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-54.455223,-97.838975)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:14.1111px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#208080;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       x="62.359558"
+       y="162.09695"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Sans;-inkscape-font-specification:'Sans Bold';fill:#208080;fill-opacity:1;stroke-width:3"
+         x="62.359558"
+         y="162.09695">VAULT</tspan></text>
+    <g
+       id="g20"
+       transform="matrix(0.7071135,-0.7071135,0.74811162,0.74811162,-46.26839,82.557866)"
+       style="stroke-width:0.972204">
+      <rect
+         style="fill:#aade87;fill-opacity:1;stroke-width:2.91661;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect16"
+         width="10.00732"
+         height="28.119629"
+         x="123.95073"
+         y="-80.260124"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#55ddff;fill-opacity:1;stroke-width:2.91661;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect17"
+         width="16.929533"
+         height="25.617746"
+         x="40.517094"
+         y="96.340477" />
+      <rect
+         style="fill:#208080;fill-opacity:1;stroke-width:2.91661;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect19"
+         width="10.762611"
+         height="17.052912"
+         x="69.497513"
+         y="104.90531" />
+      <rect
+         style="fill:#00aad4;fill-opacity:1;stroke-width:2.91661;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         id="rect20"
+         width="6.6465592"
+         height="20.913931"
+         x="-102.98704"
+         y="59.401783"
+         transform="rotate(-90)" />
+    </g>
+  </g>
+</svg>
