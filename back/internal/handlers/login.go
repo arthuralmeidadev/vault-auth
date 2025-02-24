@@ -56,11 +56,17 @@ func Login(w http.ResponseWriter, r *http.Request) {
                 Name:    "authenticationToken",
                 Value:   string(authTk),
                 Expires: time.Now().Add(time.Hour * 2),
+                HttpOnly: true,
+                Secure: true,
+                SameSite: http.SameSiteNoneMode,
             })
             http.SetCookie(w, &http.Cookie{
                 Name:    "refreshToken",
                 Value:   string(refTk),
                 Expires: time.Now().Add(time.Hour * 24),
+                HttpOnly: true,
+                Secure: true,
+                SameSite: http.SameSiteNoneMode,
             })
             w.WriteHeader(200)
             return
