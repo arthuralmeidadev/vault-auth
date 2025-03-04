@@ -11,6 +11,7 @@ func Auth(w http.ResponseWriter, r *http.Request) {
     switch r.Method {
     case http.MethodGet:
 		authCookie, err := r.Cookie("authenticationToken")
+        println(err.Error())
 		if err != nil {
 			http.Redirect(w, r, "/login", http.StatusUnauthorized)
 			return

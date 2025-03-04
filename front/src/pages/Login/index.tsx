@@ -121,7 +121,7 @@ export function Login() {
     async function login() {
         try {
             await Provider.login(username, password);
-            window.location.replace("/");
+            // window.location.replace("/");
         } catch (error: unknown) {
             console.error(error);
             if (error instanceof AxiosError) {
